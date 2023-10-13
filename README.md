@@ -1,6 +1,6 @@
 # Cars-Catalogue
 
-Web-based application having CRUD operations for Admin, User, Cars, Car's Manufacturer, Jobs, etc.<br>
+Web-based application having CRUD operations for Admin, User, Cars, Car's Manufacturer, Jobs, Stories, etc.<br>
 To run the project:<br>
 1. Clone the repository in your local machine.<br>
 2. Open the project with any IDE (VS Code or PHPStorm recommended). <br>
