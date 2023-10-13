@@ -9,7 +9,7 @@ To run the project:<br>
 5. Run 'docker compose up' command in IDE's terminal.<br>
 6. Wait for 20-30 seconds and run the website in any web browsers by entering this url 'v.je'.<br>
 7. That's it!
-
-Admin Credentials:
-Username: Claire
+<br>
+Admin Credentials:<br>
+Username: Claire<br>
 Password: opensesame
