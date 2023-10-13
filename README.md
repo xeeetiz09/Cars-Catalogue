@@ -1,7 +1,7 @@
 # Cars-Catalogue
 
 Web-based application having CRUD operations for Admin, User, Cars, Car's Manufacturer, Jobs, Stories, etc.<br>
-To run the project:<br>
+To run the project, follow these steps:<br>
 1. Clone the repository in your local machine.<br>
 2. Open the project with any IDE (VS Code or PHPStorm recommended). <br>
 3. Open the terminal (Ctrl + Shift + ` in VS Code) (Alt + F12 in PHPStorm).<br>
